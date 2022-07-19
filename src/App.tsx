@@ -1,9 +1,8 @@
-import { Navigation } from './routes/Navigation';
-
 function App() {
   return (
     <>
-      <Navigation />
+      <h1>React Reinforcement</h1>
+      <hr />
     </>
   );
 }
